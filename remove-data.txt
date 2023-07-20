@@ -1,0 +1,32 @@
+name and logo--- * Set application logo by adding it in the public img folder and edit the .env logo path appropriately
+* Store favicon in path public/favicons/, the file should be called favicon.ico
+* For development or testing purposes, you can use the laravel built in server by running //////.env file
+```shell
+
+--------2)
+
+done--//view logs-- he sang br jara git ch ky hot  he pan dasboard varun ghlvyach
+section-- remove karaycha na dashboard madhun ? ho
+
+DONE -------3)
+PROMOTE STUDENT promote student --he nremove karaycha na dashboard madhun ho /// controller-----///
+manage promotion he pn ?
+
+-------4)
+graduate student /// graduation controller.php
+ manage graduation /////menu
+
+------5) fees cha $ rs takaych tith--logo ///fee controller.php
+
+DONE------6)
+account application //account application controller.php
+
+//--ha te sakul jar change kel na akhya project lach change karyala lagl na
+bagh kuth kuth sakuul aahe he
+
+App\Services\MyClass ------section is here may be 
+
+C:\xampp\htdocs\skuul-main\app\Http\Controllers ----- controller*******
+
+all menus are here C:\xampp\htdocs\skuul-main\app\Http\Livewire\Layouts
+
